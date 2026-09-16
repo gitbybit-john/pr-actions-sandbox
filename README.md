@@ -45,3 +45,6 @@ Returns a conversion result object with:
 ## License
 
 MIT
+
+Sandbox check: verify API approval for external contributors.
+Second push: verify that approval is required again.
