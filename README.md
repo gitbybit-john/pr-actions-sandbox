@@ -48,3 +48,4 @@ MIT
 
 Sandbox check: verify API approval for external contributors.
 Second push: verify that approval is required again.
+Established contributor check: approval must still be required.
