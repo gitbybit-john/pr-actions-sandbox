@@ -29,3 +29,5 @@ jobs:
 
       - name: Run tests
         run: npm run test
+
+# Sandbox rejection probe: learner changed the workflow.
