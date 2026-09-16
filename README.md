@@ -45,3 +45,5 @@ Returns a conversion result object with:
 ## License
 
 MIT
+
+Sandbox check: reproduce the existing pull request workflow.
